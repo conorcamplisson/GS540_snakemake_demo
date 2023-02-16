@@ -4,4 +4,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupyter=1.0.0
   - snakemake=7.14.0
